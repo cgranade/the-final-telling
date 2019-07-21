@@ -1,10 +1,10 @@
 ---
 title: "Chapter 1: Of Deliverables and Deliverance"
-author: TBD
+author: The Narrator
 category: literature
 layout: post
 ---
 
-# Teaser #
+## Teaser ##
 
 ## Episode 1 ##
