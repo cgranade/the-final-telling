@@ -22,11 +22,21 @@ What secrets hide in the dreams of a dead city that has yet to note its own demi
 *[Removed due to ongoing IP complaint.]*
 
 **Interviewer**: Before we go, can you share a few words about the secret to your success?
+
 **Valfreyja**: I choose my fate. The only secret is what fate I have chosen to succeed by.
+
 **Interviewer**: What do you mean?
+
 **Valfreyja**: I record my fate for each day, so that I may know which success will be mine. If I choose my fate to be 0x09f9, then my fate will be to succeed with thunderous innocence.
+
 **Interviewer** _(stammering)_: That's all the time we have, thank you so much for joining us!
 _Valfreyja removes mic and sits impassive as the video clip fades to black._
+
+
+**Played:** 12 August 2019
+
+**TODO: write summary**
+
 
 ### Epsiode 3 ###
 
