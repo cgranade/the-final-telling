@@ -38,7 +38,7 @@ _Valfreyja removes mic and sits impassive as the video clip fades to black._
 **TODO: write summary**
 
 
-### Epsiode 3 ###
+### Epsiode 3 : The Golden Magician's Wand ###
 
 There is an order to this world, a system. All rise in power in accordance with this system, and all fall in equal accord and in due time.
 Kings, emperors, popes, presidents, ministers, CEOs, all fall from their lofty heights.
@@ -46,9 +46,37 @@ Brick by brick we rise, only to fall to the poisons of our respective days.
 We are the new monarchs of this age, absolute in our sovereignty over this doomed world, and we will fail as surely as every in our lineage.
 This is the way, the order, the system of the world, and we will not change it --- we will merely perish trying.
 
-**Played**: 1 September 2019
+**Played**: 2 September 2019
 
-**TODO: write summary**
+This episode opens with some definitely _not_ planning a stake-out the next day of the newly located Obelisk headquarters (borealis building) by definitely _not_ Scruffy and Margo. 
+Chris was _not_ waiting to find out if Vincent or Tycha left the building to follow them. Zoe _was_ planning on doing her actual job for once.
+
+In the morning the stake-out commences and Vincent and Tycha are seen entering the building by Scruffy in disguise "writing his novel" in a green notebook lent to him by Margo. 
+Margo took her exam that morning and ... probably should spend more time studying and not hanging our with some random and occasionally attractive strangers. 
+Scruffy after a few hours makes eye contact with someone briefly who then enters the building with Obelisk's offices, and for fear of being found he leaves to a more remote vantage point.
+Margo moves in and while watching the building entrance, she sees someone leaving the building rapidly, but not from the actual building exit.
+
+Separately, Zoe was doing her job that morning by looking into Tycha's background (clean) and getting the cops to bring in and question Tycha and Vincent. 
+However, a call just shortly after lunch communicated that was not going to be an option as Vincent and Tycha were **MURDERED**.
+This call from Detective Neil Paul (homicide) was productive and he asked her if she could come down to the scene to ID the bodies and see if there were any clues that would connect the two cases.
+When there, Zoe catches Neil up on the details of her case and they go up into the building to see both people shot once in the head slumped in a meeting room while seated at the conference table.
+Zoe, who should have went to cop school, notices some scuffed carpet near the victims and that the bodies had their pockets emptied.
+After showing the cops this, a uniform finds vincent's wallet with nothing apparently missing in a trash bin outside.
+Zoe then walked around the office looking for clues to her case, and found a safe embedded in Vincent's desk.
+She then with her budding larceny skills manages to get it open and put the contents in her pocket before the unis notice and walk over.
+She gets kudos for noticing a clue, and then is too much in the way so she is shown out of the building.
+
+The squad then meets up again at at different bar they had agreed upon the previous night, Zoe shares the bad news.
+Scruffy made a touching memorial speech about how the world was better off without them, and to get him to stop Zoe showed them something she found at the crime scene, a Magician tarot card.
+Margo touches the card, and it became hers and she just then _knew_ how it worked.
+Everyone else touched it to also learn the rules/understand what she was babbling about, but knew she was the "owner".
+Margo accidentally invokes the spell and then everyone had fries at dinner, despite not actually originally ordering them.
+
+To close out the night the crew decides to go get a tarot reading from Chris' friend Imani.
+She did a past/present/future reading for the group which was: the fool/inverted moon/9 of pentacles.
+She tells a compelling story with this reading that seemed pretty relevant to the group 💖
+
+
 
 ## Plot ##
 
