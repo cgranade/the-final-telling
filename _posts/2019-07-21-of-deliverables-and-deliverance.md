@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: Of Deliverables and Deliverance"
 author: The Narrator
-category: literature
+category: episodes
 layout: post
 ---
 
@@ -38,7 +38,7 @@ _Valfreyja removes mic and sits impassive as the video clip fades to black._
 **TODO: write summary**
 
 
-### Epsiode 3 : The Golden Magician's Wand ###
+### Epsiode 3 ###
 
 There is an order to this world, a system. All rise in power in accordance with this system, and all fall in equal accord and in due time.
 Kings, emperors, popes, presidents, ministers, CEOs, all fall from their lofty heights.
@@ -49,15 +49,15 @@ This is the way, the order, the system of the world, and we will not change it -
 **Played**: 2 September 2019
 
 This episode opens with some definitely _not_ planning a stake-out the next day of the newly located Obelisk headquarters (borealis building) by definitely _not_ Scruffy and Margo. 
-Chris was _not_ waiting to find out if Vincent or Tycha left the building to follow them. Zoe _was_ planning on doing her actual job for once.
+Chris was _not_ waiting to find out if Vincent or Taika left the building to follow them. Zoe _was_ planning on doing her actual job for once.
 
-In the morning the stake-out commences and Vincent and Tycha are seen entering the building by Scruffy in disguise "writing his novel" in a green notebook lent to him by Margo. 
+In the morning the stake-out commences and Vincent and Taika are seen entering the building by Scruffy in disguise "writing his novel" in a green notebook lent to him by Margo. 
 Margo took her exam that morning and ... probably should spend more time studying and not hanging our with some random and occasionally attractive strangers. 
 Scruffy after a few hours makes eye contact with someone briefly who then enters the building with Obelisk's offices, and for fear of being found he leaves to a more remote vantage point.
 Margo moves in and while watching the building entrance, she sees someone leaving the building rapidly, but not from the actual building exit.
 
-Separately, Zoe was doing her job that morning by looking into Tycha's background (clean) and getting the cops to bring in and question Tycha and Vincent. 
-However, a call just shortly after lunch communicated that was not going to be an option as Vincent and Tycha were **MURDERED**.
+Separately, Zoe was doing her job that morning by looking into Taika's background (clean) and getting the cops to bring in and question Taika and Vincent. 
+However, a call just shortly after lunch communicated that was not going to be an option as Vincent and Taika were **MURDERED**.
 This call from Detective Neil Paul (homicide) was productive and he asked her if she could come down to the scene to ID the bodies and see if there were any clues that would connect the two cases.
 When there, Zoe catches Neil up on the details of her case and they go up into the building to see both people shot once in the head slumped in a meeting room while seated at the conference table.
 Zoe, who should have went to cop school, notices some scuffed carpet near the victims and that the bodies had their pockets emptied.
@@ -75,8 +75,6 @@ Margo accidentally invokes the spell and then everyone had fries at dinner, desp
 To close out the night the crew decides to go get a tarot reading from Chris' friend Imani.
 She did a past/present/future reading for the group which was: the fool/inverted moon/9 of pentacles.
 She tells a compelling story with this reading that seemed pretty relevant to the group 💖
-
-
 
 ## Plot ##
 

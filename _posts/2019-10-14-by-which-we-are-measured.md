@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: By Which We Are Measured"
 author: The Narrator
-category: literature
+category: episodes
 layout: post
 ---
 

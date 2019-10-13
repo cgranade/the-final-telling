@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: The Lies Which Bind Us"
 author: The Narrator
-category: literature
+category: episodes
 layout: post
 ---
 
